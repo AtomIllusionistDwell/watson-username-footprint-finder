@@ -80,7 +80,7 @@ No setup wizard, no account, no admin rights. Download one file and open it.
 Two ways, same file:
 
 - **From the website:** open **[watsonfind.icu](https://watsonfind.icu)** and click **Download free**.
-- **From GitHub:** open **[watsonfind.icu](https://watsonfind.icu)** and click **Download free**, or download [`Watson-1.7.0-portable.exe`](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder/releases/latest/download/Watson-1.7.0-portable.exe) from the release.
+- **From GitHub:** open **[watsonfind.icu](https://watsonfind.icu)** and click **Download free**, or download [`Watson-1.8.0-portable.exe`](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder/releases/latest/download/Watson-1.8.0-portable.exe) from the release.
 
 Both serve the same build — pick whichever you prefer.
 
@@ -246,7 +246,7 @@ The download buttons use `DOWNLOAD_URL` in `src/pages/Landing.tsx`; on this serv
 npm run dist:win
 ```
 
-The file lands in `release/Watson-1.7.0-portable.exe`. Building on Linux works without Wine, but then the .exe keeps the default Electron file icon. Build on Windows to embed the Watson icon.
+The file lands in `release/Watson-1.8.0-portable.exe`. Building on Linux works without Wine, but then the .exe keeps the default Electron file icon. Build on Windows to embed the Watson icon.
 
 ### Stack
 
