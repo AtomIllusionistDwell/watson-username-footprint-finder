@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://watsonfind.icu"><img alt="Website: watsonfind.icu" src="https://img.shields.io/badge/watsonfind.icu-website-82a9f5?style=for-the-badge&labelColor=10151f"></a>
-  <a href="https://github.com/AtomIllusionistDwell/watson-username-footprint-finder/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%20.exe-ffffff?style=for-the-badge&logo=windows&logoColor=000000&labelColor=82a9f5"></a>
+  <a href="https://watsonfind.icu"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%20.exe-ffffff?style=for-the-badge&logo=windows&logoColor=000000&labelColor=82a9f5"></a>
   <img alt="Price: free forever" src="https://img.shields.io/badge/price-%240%20forever-30d158?style=for-the-badge&labelColor=10151f">
   <img alt="Built with Electron and React" src="https://img.shields.io/badge/Electron%20%2B%20React-10151f?style=for-the-badge&logo=react&logoColor=82a9f5">
 </p>
