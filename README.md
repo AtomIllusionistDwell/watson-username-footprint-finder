@@ -71,42 +71,9 @@ The answer is already out there, scattered across **3,100+ public sites**. Findi
 
 ---
 
-## Install in 2 minutes
+## Download
 
-No setup wizard, no account, no admin rights. Download one file and open it.
-
-### 1. Download
-
-Two ways, same file:
-
-- **From the website:** open **[watsonfind.icu](https://watsonfind.icu)** and click **Download free**.
-- **From GitHub:** open **[watsonfind.icu](https://watsonfind.icu)** and click **Download free**, or download [`Watson-1.8.1-portable.exe`](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder/releases/latest/download/Watson-1.8.1-portable.exe) from the release.
-
-Both serve the same build — pick whichever you prefer.
-
-### 2. Open it
-
-Double-click the file you downloaded. If Windows shows a blue warning, click **More info**, then **Run anyway**. You only do this once.
-
-<img src="docs/images/step-2-run.png" alt="Step 2: click More info, then Run anyway" width="100%">
-
-<details>
-<summary><b>Why does Windows warn me?</b></summary>
-<br>
-Windows shows this screen for any new app that hasn't paid for a code-signing certificate yet. It does not mean the file is harmful. Once Watson is signed, the warning goes away.
-</details>
-
-### 3. Search
-
-Type what you know and press **Enter**.
-
-<img src="docs/images/step-3-search.png" alt="Step 3: type a nickname and press Enter" width="100%">
-
-### 4. Read the answer
-
-<img src="docs/images/step-4-results.png" alt="Step 4: read the summary, filter by type, check Same person or Name match" width="100%">
-
-That's it. There is nothing else to learn.
+Everything lives on the website now: open **[watsonfind.icu](https://watsonfind.icu)** and press **Download free**.
 
 > [!TIP]
 > **No Windows?** The desktop app is Windows-only for now; a Mac version may come later.
